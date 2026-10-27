@@ -1,0 +1,365 @@
+Class1	Class2	Class3_name	C4HSL1	C4HSL2	C4HSL3	C6HSL1	C6HSL2	C6HSL3	C8HSL1	C8HSL2	C8HSL3	NC1	NC2	NC3
+Metabolism	Carbohydrate metabolism	Glycolysis / Gluconeogenesis	1557328	1340124	1316191	1338594	1347864	1263042	1331808	1271065	1365779	1357546	1455787	1445785
+Metabolism	Carbohydrate metabolism	Citrate cycle (TCA cycle)	871191	669621	709019	660609	731519	689207	682241	641034	712622	661470	729346	748226
+Metabolism	Carbohydrate metabolism	Pentose phosphate pathway	1199990	1073253	1020432	1071546	1041038	969398	1051736	1001363	1073361	1082799	1162097	1122923
+Metabolism	Carbohydrate metabolism	Pentose and glucuronate interconversions	644673	538229	516179	534245	547212	497862	521735	497679	535377	519999	572727	551581
+Metabolism	Carbohydrate metabolism	Fructose and mannose metabolism	1144565	994972	940172	961776	968945	898594	949678	916969	979618	1017008	1104894	1072443
+Metabolism	Carbohydrate metabolism	Galactose metabolism	1129666	974824	923427	994107	979777	889183	949337	906050	964462	917741	1002911	970898
+Metabolism	Carbohydrate metabolism	Ascorbate and aldarate metabolism	136812	120526	112228	111920	116082	105589	109530	106764	113882	133190	146982	141402
+Metabolism	Lipid metabolism	Fatty acid biosynthesis	852126	695751	716105	684668	720372	698652	704125	672615	733384	710508	758701	779371
+Metabolism	Lipid metabolism	Fatty acid elongation	0	0	0	0	0	0	0	0	0	0	0	0
+Metabolism	Lipid metabolism	Fatty acid degradation	272742	227620	234087	216286	229575	222204	229044	220105	236363	255193	271512	275959
+Metabolism	Lipid metabolism	Synthesis and degradation of ketone bodies	35667	35401	34968	32891	33026	30780	35830	33080	35428	43269	46038	43888
+Metabolism	Lipid metabolism	Steroid biosynthesis	0	0	0	0	0	0	0	0	2	0	0	0
+Metabolism	Lipid metabolism	Primary bile acid biosynthesis	0	0	0	0	0	0	0	0	2	2	2	0
+Metabolism	Lipid metabolism	Secondary bile acid biosynthesis	39459	28206	29957	31242	33795	29433	30346	27820	30943	22297	25755	26591
+Metabolism	Metabolism of cofactors and vitamins	Ubiquinone and other terpenoid-quinone biosynthesis	185989	127073	144884	114324	149395	137627	129263	121928	138052	129999	150104	159284
+Metabolism	Lipid metabolism	Steroid hormone biosynthesis	14748	9277	11392	9601	12925	11134	10277	9468	10418	5937	7183	8165
+Metabolism	Energy metabolism	Oxidative phosphorylation	1321244	1070663	1103783	1098950	1157361	1078842	1093682	1021535	1116784	1032336	1126901	1134502
+Metabolism	Energy metabolism	Photosynthesis	492025	428094	413732	439025	428083	414965	423104	403488	433477	425239	452355	449125
+Metabolism	Energy metabolism	Photosynthesis - antenna proteins	0	0	0	0	0	0	0	0	0	0	0	0
+Metabolism	Amino acid metabolism	Arginine biosynthesis	727049	613685	615341	630627	629007	585123	626676	582152	638139	582466	633977	621174
+Metabolism	Nucleotide metabolism	Purine metabolism	3018675	2572801	2566272	2552479	2593565	2480761	2570025	2451459	2644301	2648876	2828340	2835080
+Metabolism	Biosynthesis of other secondary metabolites	Caffeine metabolism	0	0	0	0	0	0	0	2	0	0	0	0
+Metabolism	Nucleotide metabolism	Pyrimidine metabolism	2505184	2118982	2141361	2122335	2175909	2077940	2136512	2029265	2194279	2162272	2309829	2328196
+Metabolism	Amino acid metabolism	Alanine, aspartate and glutamate metabolism	1461698	1197092	1221164	1207656	1251629	1183812	1214998	1147999	1252795	1173819	1270007	1282243
+Metabolism	Metabolism of terpenoids and polyketides	Tetracycline biosynthesis	167889	148583	149533	141746	144169	145136	147528	143508	154067	172443	178391	183220
+Metabolism	Amino acid metabolism	Glycine, serine and threonine metabolism	1114229	950049	941535	969397	971353	902294	958553	898419	975774	924743	1002916	982771
+Metabolism	Biosynthesis of other secondary metabolites	Monobactam biosynthesis	357391	300462	296428	299071	304756	289282	297273	284078	306100	301855	324643	324494
+Metabolism	Amino acid metabolism	Cysteine and methionine metabolism	1366898	1172130	1164932	1204382	1196477	1122714	1184717	1114166	1206702	1164170	1252716	1237052
+Metabolism	Amino acid metabolism	Valine, leucine and isoleucine degradation	308623	252531	258738	244658	262250	246850	255748	240928	262811	263019	286149	287392
+Metabolism	Metabolism of terpenoids and polyketides	Geraniol degradation	27318	21879	21799	19517	22568	19778	21071	19365	21156	24355	28824	27561
+Metabolism	Amino acid metabolism	Valine, leucine and isoleucine biosynthesis	621462	554471	533236	565055	542054	513498	548111	519079	558289	545344	585296	573815
+Metabolism	Amino acid metabolism	Lysine biosynthesis	893184	768858	762719	766999	770655	737993	767197	733057	789042	794499	844753	845846
+Metabolism	Amino acid metabolism	Lysine degradation	181650	156430	159239	134972	150889	148926	152584	148337	158950	194020	206017	209018
+Metabolism	Biosynthesis of other secondary metabolites	Penicillin and cephalosporin biosynthesis	4473	3372	3914	4993	5224	4415	3799	3082	3534	3759	4284	4635
+Metabolism	Amino acid metabolism	Arginine and proline metabolism	519677	425099	423406	413159	429898	412632	417758	400191	434846	442071	483038	483411
+Metabolism	Biosynthesis of other secondary metabolites	Clavulanic acid biosynthesis	0	0	0	0	0	0	0	0	0	0	0	0
+Metabolism	Biosynthesis of other secondary metabolites	Carbapenem biosynthesis	112243	96638	96137	96921	97589	93961	96182	92477	99246	98859	104912	106066
+Metabolism	Amino acid metabolism	Histidine metabolism	629255	521381	533683	557196	558840	518132	542292	500135	548768	474909	517863	515655
+Metabolism	Amino acid metabolism	Tyrosine metabolism	207412	175346	173370	178702	178500	167488	175416	165906	178936	175189	189856	186999
+Metabolism	Amino acid metabolism	Phenylalanine metabolism	318445	256871	265385	246353	265565	255097	260271	247764	271229	271559	292933	297327
+Metabolism	Xenobiotics biodegradation and metabolism	Chlorocyclohexane and chlorobenzene degradation	13587	13681	12936	14962	14756	12416	13542	11978	12853	14270	16131	14845
+Metabolism	Xenobiotics biodegradation and metabolism	Benzoate degradation	156891	137318	139088	128430	134324	130479	137943	130231	141276	156442	167694	166345
+Metabolism	Xenobiotics biodegradation and metabolism	Fluorobenzoate degradation	2439	2879	1946	1419	1555	1542	1595	1785	1697	5191	5971	5342
+Metabolism	Amino acid metabolism	Tryptophan metabolism	99167	84894	89829	76208	85269	81640	84965	80998	88028	105809	114039	115464
+Metabolism	Amino acid metabolism	Phenylalanine, tyrosine and tryptophan biosynthesis	1074578	920343	906229	955066	934822	877488	928431	870561	946148	857640	930841	909794
+Metabolism	Biosynthesis of other secondary metabolites	Novobiocin biosynthesis	194186	159032	162612	162376	167359	157724	162642	152873	166675	151189	163854	164412
+Metabolism	Biosynthesis of other secondary metabolites	Staurosporine biosynthesis	0	0	0	0	0	3	0	0	9	0	6	0
+Metabolism	Metabolism of other amino acids	beta-Alanine metabolism	138236	116742	114668	114185	117899	109357	112573	106701	115102	118515	132796	129407
+Metabolism	Metabolism of other amino acids	Taurine and hypotaurine metabolism	183112	154618	153878	147636	154625	146899	152782	147025	157791	164909	177388	176703
+Metabolism	Metabolism of other amino acids	Phosphonate and phosphinate metabolism	110159	84930	84424	81437	89873	82478	81059	77438	85772	80322	92466	90165
+Metabolism	Metabolism of other amino acids	Selenocompound metabolism	475119	421846	407225	410566	405211	390079	412745	398626	424467	455479	481956	476163
+Metabolism	Metabolism of other amino acids	Cyanoamino acid metabolism	358857	279187	292624	292556	314619	285626	289176	271594	297577	263773	290853	294954
+Metabolism	Metabolism of other amino acids	D-Glutamine and D-glutamate metabolism	288377	242050	247319	232932	245270	238611	243203	234580	252046	259612	273952	280539
+Metabolism	Metabolism of other amino acids	D-Arginine and D-ornithine metabolism	4519	3597	3407	2950	3229	3376	3132	3230	3361	4214	4599	4349
+Metabolism	Metabolism of other amino acids	D-Alanine metabolism	141669	122215	123311	118759	122510	119101	121985	117448	125637	135301	142705	144094
+Metabolism	Metabolism of other amino acids	Glutathione metabolism	261327	217540	212559	198180	208385	205526	207431	202890	218181	243397	263316	261780
+Metabolism	Carbohydrate metabolism	Starch and sucrose metabolism	1332235	1157346	1115839	1184785	1170778	1071843	1147172	1094696	1167148	1152936	1243444	1219974
+Metabolism	Glycan biosynthesis and metabolism	N-Glycan biosynthesis	33486	24297	25816	25035	27841	25029	25418	23695	26692	20252	23334	23691
+Metabolism	Glycan biosynthesis and metabolism	Other glycan degradation	457026	317059	326013	319365	369136	331255	314936	301656	329089	222192	260889	268313
+Metabolism	Glycan biosynthesis and metabolism	Various types of N-glycan biosynthesis	7	8	0	0	4	4	4	0	0	2	0	9
+Metabolism	Glycan biosynthesis and metabolism	Other types of O-glycan biosynthesis	0	28	11	26	3	2	17	23	9	43	36	19
+Metabolism	Glycan biosynthesis and metabolism	Mannose type O-glycan biosynthesis	0	28	11	26	3	2	17	23	9	43	36	19
+Metabolism	Carbohydrate metabolism	Amino sugar and nucleotide sugar metabolism	1919132	1610866	1573395	1584497	1624989	1523784	1581221	1523502	1637247	1620883	1747466	1742756
+Metabolism	Biosynthesis of other secondary metabolites	Streptomycin biosynthesis	491119	407107	414000	404925	423353	395452	413648	397659	428948	423123	450337	460817
+Metabolism	Metabolism of terpenoids and polyketides	Biosynthesis of 12-, 14- and 16-membered macrolides	0	0	0	0	0	0	0	0	0	0	0	0
+Metabolism	Metabolism of terpenoids and polyketides	Polyketide sugar unit biosynthesis	269104	223606	227947	218194	228307	218788	226019	219871	235808	241365	253693	262732
+Metabolism	Biosynthesis of other secondary metabolites	Neomycin, kanamycin and gentamicin biosynthesis	109920	89696	91163	88495	94799	87201	90934	87456	95453	95156	102470	105181
+Metabolism	Biosynthesis of other secondary metabolites	Acarbose and validamycin biosynthesis	132599	113332	113165	110420	112204	107592	113757	110717	117929	122919	128734	131765
+Metabolism	Glycan biosynthesis and metabolism	Glycosaminoglycan degradation	179814	123674	129314	122105	143667	130482	122861	117330	130144	90414	106201	110096
+Metabolism	Glycan biosynthesis and metabolism	Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate	0	0	0	0	0	0	0	0	0	0	0	0
+Metabolism	Glycan biosynthesis and metabolism	Glycosaminoglycan biosynthesis - heparan sulfate / heparin	0	0	0	0	0	0	0	0	0	0	0	0
+Metabolism	Glycan biosynthesis and metabolism	Lipopolysaccharide biosynthesis	637858	458484	515326	351189	485115	505663	443706	460039	494985	587114	617737	682084
+Metabolism	Glycan biosynthesis and metabolism	Peptidoglycan biosynthesis	992007	855034	860875	862743	869278	834870	864738	820542	885449	887118	939374	948115
+Metabolism	Lipid metabolism	Glycerolipid metabolism	484954	448046	417006	453258	425366	403633	431302	412045	439918	448124	478639	461082
+Metabolism	Carbohydrate metabolism	Inositol phosphate metabolism	183986	154493	158207	159260	163100	148635	158988	148734	161236	150203	162773	161900
+Metabolism	Glycan biosynthesis and metabolism	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	0	0	0	0	0	0	0	0	0	0	0	0
+Metabolism	Lipid metabolism	Glycerophospholipid metabolism	772362	656339	657286	627050	657177	631420	645080	625280	670140	714022	760791	770891
+Metabolism	Lipid metabolism	Ether lipid metabolism	6414	4357	4743	3391	4380	4129	4370	4117	4994	5763	6602	6652
+Metabolism	Lipid metabolism	Arachidonic acid metabolism	28663	23734	22854	17469	20339	22103	21093	22251	23607	31510	32626	33826
+Metabolism	Lipid metabolism	Linoleic acid metabolism	6306	4211	4601	3218	4250	4031	4230	3982	4855	5624	6454	6547
+Metabolism	Lipid metabolism	alpha-Linolenic acid metabolism	9165	8429	7171	6017	6400	6122	6959	6663	7422	11908	13760	12686
+Metabolism	Lipid metabolism	Sphingolipid metabolism	311552	229979	231409	244504	262133	229198	233245	219694	239820	173093	200487	199666
+Metabolism	Glycan biosynthesis and metabolism	Glycosphingolipid biosynthesis - lacto and neolacto series	57	84	95	34	63	93	52	132	118	82	97	146
+Metabolism	Glycan biosynthesis and metabolism	Glycosphingolipid biosynthesis - globo and isoglobo series	179733	126946	130704	133246	147554	132803	128160	121262	133056	88819	103829	107746
+Metabolism	Glycan biosynthesis and metabolism	Glycosphingolipid biosynthesis - ganglio series	118617	74694	82221	72032	92361	84210	75282	72684	80818	50244	60418	66837
+Metabolism	Carbohydrate metabolism	Pyruvate metabolism	1586697	1335564	1346058	1300774	1354049	1300791	1326583	1268353	1375922	1395753	1496498	1510090
+Metabolism	Xenobiotics biodegradation and metabolism	Dioxin degradation	8012	6190	6887	6259	6630	5777	7181	6101	7247	7066	8475	8004
+Metabolism	Xenobiotics biodegradation and metabolism	Xylene degradation	8614	6547	7245	6563	7010	6169	7450	6380	7672	7608	9133	8744
+Metabolism	Xenobiotics biodegradation and metabolism	Toluene degradation	3053	3239	2298	1733	1945	1933	1868	2067	2109	5728	6620	6065
+Metabolism	Xenobiotics biodegradation and metabolism	Polycyclic aromatic hydrocarbon degradation	12	5	14	20	17	6	7	12	11	10	10	3
+Metabolism	Xenobiotics biodegradation and metabolism	Chloroalkane and chloroalkene degradation	82277	78989	71026	89267	77072	71049	77444	70852	75719	70954	78135	71869
+Metabolism	Xenobiotics biodegradation and metabolism	Naphthalene degradation	48761	46720	40806	51997	43934	40273	44879	41773	44039	44423	48625	44360
+Metabolism	Xenobiotics biodegradation and metabolism	Aminobenzoate degradation	98012	82346	83820	73162	80630	78061	81286	78546	85296	95717	102892	103521
+Metabolism	Carbohydrate metabolism	Glyoxylate and dicarboxylate metabolism	1045198	865539	860266	859520	890547	832682	857268	808668	881647	853221	936949	925055
+Metabolism	Xenobiotics biodegradation and metabolism	Nitrotoluene degradation	132637	112010	114503	100504	109678	110021	106705	105025	115561	137269	146039	151486
+Metabolism	Carbohydrate metabolism	Propanoate metabolism	850401	749312	733826	715825	726845	698203	735142	705664	756636	820270	872526	867939
+Metabolism	Xenobiotics biodegradation and metabolism	Ethylbenzene degradation	2859	4200	2560	2786	2150	2079	2719	2673	2563	6270	7300	6126
+Metabolism	Xenobiotics biodegradation and metabolism	Styrene degradation	48004	41656	44893	29355	37412	41932	40402	43034	44603	65586	65000	70674
+Metabolism	Carbohydrate metabolism	Butanoate metabolism	973786	820678	837595	762977	821600	801216	811572	785430	846450	906255	963901	981438
+Metabolism	Carbohydrate metabolism	C5-Branched dibasic acid metabolism	364405	322504	312625	317513	311887	299367	315598	303236	324399	335839	358198	356237
+Metabolism	Metabolism of cofactors and vitamins	One carbon pool by folate	1015357	874711	868512	917444	901786	838663	890568	830647	898951	819376	883705	867186
+Metabolism	Energy metabolism	Methane metabolism	1053784	901006	899948	880405	904216	857225	895472	857073	924178	942299	1007942	1009198
+Metabolism	Energy metabolism	Carbon fixation in photosynthetic organisms	777919	667535	664380	661719	672806	631458	668029	633728	684238	673367	722193	716777
+Metabolism	Energy metabolism	Carbon fixation pathways in prokaryotes	1368328	1106166	1148127	1089101	1167494	1115647	1119850	1064822	1164165	1130712	1216515	1246203
+Metabolism	Metabolism of cofactors and vitamins	Thiamine metabolism	583722	497120	496174	493715	498034	479956	498543	476289	512778	503939	534786	535370
+Metabolism	Metabolism of cofactors and vitamins	Riboflavin metabolism	279182	227325	231129	210593	229310	224223	221336	217983	233681	236415	253121	259243
+Metabolism	Metabolism of cofactors and vitamins	Vitamin B6 metabolism	297522	241366	248147	236205	252233	240319	243250	232728	252608	248301	267546	272266
+Metabolism	Metabolism of cofactors and vitamins	Nicotinate and nicotinamide metabolism	712942	609090	605805	609696	615068	580565	609867	580469	623402	607295	651332	650642
+Metabolism	Metabolism of cofactors and vitamins	Pantothenate and CoA biosynthesis	764148	674435	655714	678714	664249	627126	669160	635615	681943	675063	723716	710428
+Metabolism	Metabolism of cofactors and vitamins	Biotin metabolism	621737	495957	502563	458314	503468	498400	482380	473082	510336	513611	550757	569023
+Metabolism	Metabolism of cofactors and vitamins	Lipoic acid metabolism	63283	44794	50757	45820	54294	47527	49594	43970	50611	40690	46654	47987
+Metabolism	Metabolism of cofactors and vitamins	Folate biosynthesis	625840	490415	511266	456832	504947	498676	487603	477243	515894	524946	561489	587020
+Metabolism	Xenobiotics biodegradation and metabolism	Atrazine degradation	5554	3643	5242	4059	4884	4200	5269	4210	5029	3680	3966	3957
+Metabolism	Metabolism of cofactors and vitamins	Retinol metabolism	27121	20790	21295	21428	22383	20717	21038	19758	21590	19894	22639	22138
+Metabolism	Metabolism of cofactors and vitamins	Porphyrin and chlorophyll metabolism	1185393	1019476	1009249	951909	986495	984308	988015	970450	1037036	1139236	1196884	1214803
+Metabolism	Metabolism of terpenoids and polyketides	Terpenoid backbone biosynthesis	736579	626486	635223	630383	642167	610606	637172	602821	652382	635698	678007	680466
+Metabolism	Biosynthesis of other secondary metabolites	Indole alkaloid biosynthesis	0	0	0	0	0	0	0	0	0	0	0	0
+Metabolism	Metabolism of terpenoids and polyketides	Limonene and pinene degradation	17086	17277	15233	18470	15482	14820	16256	14862	16009	17365	19779	17998
+Metabolism	Metabolism of terpenoids and polyketides	Brassinosteroid biosynthesis	0	0	0	0	0	0	0	0	0	0	0	0
+Metabolism	Metabolism of terpenoids and polyketides	Carotenoid biosynthesis	1866	2568	1920	2076	1746	1379	2101	1885	1860	3929	4507	3633
+Metabolism	Metabolism of terpenoids and polyketides	Zeatin biosynthesis	76867	61056	63472	61464	65612	62120	62735	59381	64804	59398	64134	65601
+Metabolism	Metabolism of terpenoids and polyketides	Sesquiterpenoid and triterpenoid biosynthesis	0	0	1	0	1	0	2	0	0	0	0	0
+Metabolism	Energy metabolism	Nitrogen metabolism	535731	452914	443294	448206	453684	431843	443406	420932	457497	460839	502263	496584
+Metabolism	Energy metabolism	Sulfur metabolism	481229	392887	393217	386327	409528	380268	383938	365533	398685	395976	438400	435561
+Metabolism	Xenobiotics biodegradation and metabolism	Caprolactam degradation	3335	4179	3113	2835	2492	2255	3149	3048	3167	7584	8848	7391
+Metabolism	Biosynthesis of other secondary metabolites	Phenylpropanoid biosynthesis	152027	121368	121913	133712	140088	118905	125140	117559	125972	105437	117471	116915
+Metabolism	Biosynthesis of other secondary metabolites	Flavonoid biosynthesis	10284	9090	9654	4795	7178	9259	8120	9702	9509	16877	16021	18222
+Metabolism	Biosynthesis of other secondary metabolites	Stilbenoid, diarylheptanoid and gingerol biosynthesis	10284	9090	9654	4795	7178	9259	8120	9702	9513	16881	16021	18222
+Metabolism	Biosynthesis of other secondary metabolites	Isoquinoline alkaloid biosynthesis	1	4	1	9	1	4	0	3	3	6	12	5
+Metabolism	Biosynthesis of other secondary metabolites	Tropane, piperidine and pyridine alkaloid biosynthesis	61980	48231	51872	53468	55419	49976	52206	46984	52640	40580	45362	45316
+Metabolism	Biosynthesis of other secondary metabolites	Betalain biosynthesis	0	0	0	0	0	0	0	0	0	0	0	0
+Genetic Information Processing	Translation	Aminoacyl-tRNA biosynthesis	1483395	1281613	1286331	1282727	1288353	1243996	1293013	1232121	1326898	1319762	1393597	1404270
+Metabolism	Xenobiotics biodegradation and metabolism	Metabolism of xenobiotics by cytochrome P450	30705	25085	24129	23590	24570	23046	23430	22416	24069	27718	31659	30107
+Metabolism	Xenobiotics biodegradation and metabolism	Drug metabolism - cytochrome P450	30802	25152	24230	23668	24668	23122	23517	22488	24169	27736	31681	30179
+Metabolism	Xenobiotics biodegradation and metabolism	Drug metabolism - other enzymes	433594	364070	368280	371513	384963	356418	370107	347450	376761	361592	390548	389790
+Metabolism	Xenobiotics biodegradation and metabolism	Steroid degradation	0	0	0	0	0	0	0	0	6	6	0	0
+Metabolism	Lipid metabolism	Biosynthesis of unsaturated fatty acids	144973	129849	121259	134494	125458	117524	127230	118163	128620	122455	134701	128773
+Metabolism	Metabolism of terpenoids and polyketides	Biosynthesis of ansamycins	137299	130448	121059	132041	123449	113103	126631	119341	127113	126830	136109	127927
+Metabolism	Metabolism of terpenoids and polyketides	Type I polyketide structures	0	0	0	0	0	0	0	0	0	0	0	0
+Metabolism	Metabolism of terpenoids and polyketides	Biosynthesis of siderophore group nonribosomal peptides	29437	26144	21264	15993	19734	19543	18155	19277	20126	37993	44079	41051
+Metabolism	Metabolism of terpenoids and polyketides	Nonribosomal peptide structures	20166	15455	16601	17051	18305	17819	16243	14527	16681	13801	15405	15834
+Metabolism	Metabolism of terpenoids and polyketides	Biosynthesis of vancomycin group antibiotics	77317	65783	65942	62457	64628	63361	65484	64738	68549	74039	76754	79499
+Metabolism	Metabolism of terpenoids and polyketides	Biosynthesis of type II polyketide backbone	0	0	0	0	0	0	0	0	0	0	0	0
+Metabolism	Metabolism of terpenoids and polyketides	Biosynthesis of type II polyketide products	0	0	0	0	0	0	0	0	0	0	0	0
+Metabolism	Global and overview maps	Metabolic pathways	25342709	21268993	21304970	21098497	21718047	20598710	21245026	20237220	21885985	21529686	23166262	23208547
+Metabolism	Global and overview maps	Biosynthesis of secondary metabolites	11010460	9375039	9317229	9445250	9510570	8996734	9383228	8890918	9619991	9362861	10080812	10021482
+Metabolism	Global and overview maps	Microbial metabolism in diverse environments	6051963	5153986	5104850	5062837	5184015	4897907	5099823	4854983	5253865	5342928	5762174	5723935
+Metabolism	Global and overview maps	Biosynthesis of antibiotics	8159195	6950655	6900029	7024795	7048953	6657082	6971728	6593652	7141986	6900012	7431696	7374088
+Metabolism	Global and overview maps	Carbon metabolism	3915967	3308156	3313238	3276458	3369769	3177359	3308913	3139633	3406889	3390290	3652125	3643529
+Metabolism	Global and overview maps	2-Oxocarboxylic acid metabolism	1121149	978968	951825	1021751	983792	916000	984288	918994	997491	921031	999180	970861
+Metabolism	Global and overview maps	Fatty acid metabolism	866346	717714	735596	692889	731888	712103	721789	691376	751480	759151	808523	827041
+Metabolism	Global and overview maps	Degradation of aromatic compounds	103409	90188	84725	97872	89947	82704	89310	82920	89675	82901	91906	88044
+Metabolism	Global and overview maps	Biosynthesis of amino acids	5725427	4965801	4868513	5152958	5022909	4701149	5000121	4687667	5080716	4757465	5136718	5026333
+Human Diseases	Drug resistance: Antimicrobial	beta-Lactam resistance	668146	562253	565880	524477	561938	544734	552050	538592	577722	624368	661928	676435
+Human Diseases	Drug resistance: Antimicrobial	Vancomycin resistance	414737	357585	359246	358052	363396	349839	359466	343632	368246	372899	393651	398083
+Human Diseases	Drug resistance: Antimicrobial	Cationic antimicrobial peptide (CAMP) resistance	443647	336872	347874	309110	355526	338216	324578	313848	344967	338290	379072	385589
+Human Diseases	Drug resistance: Antineoplastic	EGFR tyrosine kinase inhibitor resistance	0	0	0	0	0	0	2	0	0	0	0	0
+Human Diseases	Drug resistance: Antineoplastic	Endocrine resistance	0	0	0	0	0	0	0	0	0	0	0	0
+Human Diseases	Drug resistance: Antineoplastic	Platinum drug resistance	3810	4641	3112	2588	2551	2607	2844	2886	2807	8033	9269	8253
+Environmental Information Processing	Membrane transport	ABC transporters	4543544	4209128	3942982	4128728	3931958	3777572	4050303	3898902	4146174	4496860	4753066	4622589
+Environmental Information Processing	Signal transduction	Two-component system	3115571	2599688	2590026	2590819	2664690	2482224	2575449	2413016	2654756	2570931	2844793	2779834
+Cellular Processes	Cellular community - prokaryotes	Quorum sensing	2106640	1908487	1828162	1845003	1806735	1752693	1857870	1799351	1912629	2069428	2174901	2156504
+Cellular Processes	Cell motility	Bacterial chemotaxis	399795	366477	355426	388209	365708	321302	378483	334997	378684	357386	401476	363071
+Cellular Processes	Cell motility	Flagellar assembly	441030	405378	388195	421910	404622	350170	412604	362684	410739	394057	450542	395183
+Environmental Information Processing	Membrane transport	Phosphotransferase system (PTS)	475374	503716	420343	433203	392700	392762	426238	445347	449128	637625	656323	633731
+Genetic Information Processing	Translation	Ribosome biogenesis in eukaryotes	67399	56910	58074	57325	57926	56114	58017	55029	59614	58515	62054	62888
+Genetic Information Processing	Translation	Ribosome	3295557	2797494	2844267	2832340	2878394	2754926	2852178	2699509	2921025	2824136	3000383	3031831
+Genetic Information Processing	Translation	RNA transport	143126	126519	123210	130279	126612	118703	125747	118632	128176	125823	135316	133050
+Genetic Information Processing	Translation	mRNA surveillance pathway	0	0	0	0	0	0	4	0	0	0	0	0
+Genetic Information Processing	Folding, sorting and degradation	RNA degradation	844787	708581	712792	720197	731241	691316	715280	677798	733708	692913	745594	746978
+Genetic Information Processing	Transcription	RNA polymerase	229407	199197	200335	195584	197402	192942	200752	192726	207044	213318	223164	226403
+Genetic Information Processing	Transcription	Basal transcription factors	0	18	10	14	0	12	22	10	4	12	6	16
+Genetic Information Processing	Replication and repair	DNA replication	941482	781654	791694	772662	798723	769392	787226	751220	814118	795688	850525	862528
+Genetic Information Processing	Transcription	Spliceosome	0	0	0	0	0	0	0	0	0	0	0	0
+Genetic Information Processing	Folding, sorting and degradation	Proteasome	32632	33360	29908	36796	29474	27178	33652	30303	32996	30595	32648	28604
+Genetic Information Processing	Folding, sorting and degradation	Protein export	826709	691643	700981	689836	709300	679478	696927	662651	719093	692319	741325	747369
+Environmental Information Processing	Membrane transport	Bacterial secretion system	832342	707226	713254	683170	717065	689877	697744	664244	718731	767839	828384	832570
+Organismal Systems	Endocrine system	PPAR signaling pathway	231230	169290	187405	161334	188701	182296	175885	169340	186684	171724	184452	197649
+Genetic Information Processing	Replication and repair	Base excision repair	608130	512478	519529	504033	522755	500525	513882	491577	531663	533249	568968	574507
+Genetic Information Processing	Replication and repair	Nucleotide excision repair	529263	451038	457650	457356	460285	441174	460281	436364	471647	460135	487435	492017
+Genetic Information Processing	Replication and repair	Mismatch repair	1145908	955648	972191	943977	979712	942859	963824	919975	996082	987609	1053750	1069339
+Genetic Information Processing	Replication and repair	Homologous recombination	1353308	1127290	1138525	1112799	1150421	1113471	1129387	1079820	1167787	1143750	1221102	1239735
+Genetic Information Processing	Replication and repair	Non-homologous end-joining	1726	1847	1934	2155	1996	1349	2271	1820	2236	2757	3244	2423
+Genetic Information Processing	Replication and repair	Fanconi anemia pathway	0	0	0	0	0	0	6	0	0	0	0	0
+Environmental Information Processing	Signal transduction	MAPK signaling pathway - yeast	9176	6404	7907	5944	7959	6820	7220	6441	7530	7526	8763	9352
+Environmental Information Processing	Signal transduction	ErbB signaling pathway	0	0	0	0	0	0	0	0	0	0	0	0
+Environmental Information Processing	Signal transduction	MAPK signaling pathway - fly	31153	20985	24645	19779	25628	23366	22031	20496	23416	19543	22613	24010
+Environmental Information Processing	Signal transduction	Ras signaling pathway	0	0	0	0	0	0	0	0	0	0	0	0
+Environmental Information Processing	Signal transduction	Rap1 signaling pathway	0	0	0	0	0	0	0	0	0	0	0	0
+Environmental Information Processing	Signal transduction	Calcium signaling pathway	0	0	0	0	0	0	0	0	0	0	0	3
+Environmental Information Processing	Signal transduction	cGMP-PKG signaling pathway	0	0	0	0	0	0	0	0	0	0	0	0
+Environmental Information Processing	Signal transduction	cAMP signaling pathway	0	18	10	13	0	12	12	10	4	14	6	13
+Environmental Information Processing	Signaling molecules and interaction	Cytokine-cytokine receptor interaction	59728	50799	51610	51379	52154	49960	51787	49053	53035	51436	54569	55144
+Environmental Information Processing	Signal transduction	NF-kappa B signaling pathway	163	125	119	70	100	71	103	104	99	127	97	151
+Environmental Information Processing	Signal transduction	HIF-1 signaling pathway	139032	116338	117751	118181	120674	113641	118340	111569	121694	117475	126170	126963
+Environmental Information Processing	Signal transduction	FoxO signaling pathway	44794	31131	37324	30495	38685	34359	34452	30691	35776	29988	34787	36563
+Environmental Information Processing	Signal transduction	Phosphatidylinositol signaling system	138099	110119	114545	106238	115026	111823	110477	106351	115919	114582	122845	127127
+Environmental Information Processing	Signal transduction	Sphingolipid signaling pathway	0	0	0	0	0	0	0	0	0	0	0	0
+Environmental Information Processing	Signal transduction	Phospholipase D signaling pathway	34219	26766	27408	23089	26628	28334	25132	25861	27468	32344	33658	36374
+Environmental Information Processing	Signal transduction	Plant hormone signal transduction	0	0	1	5	3	0	0	0	0	1	0	0
+Environmental Information Processing	Signaling molecules and interaction	Neuroactive ligand-receptor interaction	0	0	0	0	0	0	0	0	0	0	0	0
+Cellular Processes	Cell growth and death	Cell cycle	0	0	0	0	0	0	2	0	0	0	0	0
+Cellular Processes	Cell growth and death	Cell cycle - yeast	0	0	0	0	0	0	0	0	0	0	0	0
+Cellular Processes	Cell growth and death	Cell cycle - Caulobacter	680866	574031	578300	581920	590005	561577	581011	550383	596156	568391	608077	611120
+Cellular Processes	Cell growth and death	Meiosis - yeast	1986	1477	1718	1334	1624	1554	1688	1441	1727	1519	1672	1811
+Cellular Processes	Cell growth and death	Oocyte meiosis	0	0	0	0	0	0	0	0	0	0	0	0
+Cellular Processes	Cell growth and death	p53 signaling pathway	118	331	168	342	174	191	344	205	234	226	271	241
+Genetic Information Processing	Folding, sorting and degradation	Ubiquitin mediated proteolysis	21541	16672	17911	9960	14700	17785	14386	16388	17002	26765	27189	30065
+Genetic Information Processing	Folding, sorting and degradation	Sulfur relay system	430648	381075	372724	364334	367093	362302	369467	357528	382051	413268	436725	435916
+Genetic Information Processing	Folding, sorting and degradation	SNARE interactions in vesicular transport	0	0	0	0	0	0	2	0	0	0	0	0
+Cellular Processes	Transport and catabolism	Autophagy - other	0	0	0	0	0	0	0	0	0	0	0	0
+Genetic Information Processing	Folding, sorting and degradation	Protein processing in endoplasmic reticulum	101225	77977	82186	79552	87497	81658	80651	75285	83019	70396	77503	79914
+Cellular Processes	Transport and catabolism	Lysosome	300665	197941	203113	190280	229213	213389	191390	186585	205359	134348	159840	168595
+Cellular Processes	Transport and catabolism	Endocytosis	0	0	0	0	0	0	0	0	0	0	0	0
+Cellular Processes	Transport and catabolism	Phagosome	0	0	0	0	0	0	2	0	0	0	0	0
+Cellular Processes	Transport and catabolism	Peroxisome	240241	181657	194285	181324	199713	186134	188978	178302	196397	178001	195332	201747
+Environmental Information Processing	Signal transduction	mTOR signaling pathway	0	0	0	0	0	0	2	0	0	0	0	0
+Environmental Information Processing	Signal transduction	PI3K-Akt signaling pathway	65173	53432	56224	54157	57528	54415	55742	51767	57203	53260	57304	58398
+Environmental Information Processing	Signal transduction	AMPK signaling pathway	137722	119820	116451	128741	123636	112512	121679	111896	121870	105690	116704	111406
+Cellular Processes	Cell growth and death	Apoptosis	29322	17649	22177	18975	25743	21608	20480	18512	20917	13596	16416	18568
+Organismal Systems	Aging	Longevity regulating pathway	40329	27389	32552	25723	33587	30186	29251	26937	30946	27069	31376	33362
+Organismal Systems	Aging	Longevity regulating pathway - worm	223551	190189	191440	191184	193495	183464	192022	181519	196381	191528	205197	204831
+Organismal Systems	Aging	Longevity regulating pathway - multiple species	105683	83608	89020	81936	90252	84093	86261	80551	89120	86063	94446	96249
+Cellular Processes	Cell growth and death	Apoptosis - fly	50793	41228	42209	37438	40849	40157	40858	40564	43438	45830	48276	49782
+Cellular Processes	Cell growth and death	Apoptosis - multiple species	118	331	168	342	174	191	344	205	234	226	271	241
+Organismal Systems	Circulatory system	Cardiac muscle contraction	36	24	47	240	67	78	248	24	57	36	48	58
+Organismal Systems	Circulatory system	Adrenergic signaling in cardiomyocytes	0	0	0	0	0	0	0	0	0	0	0	0
+Organismal Systems	Circulatory system	Vascular smooth muscle contraction	0	0	0	0	0	0	0	0	0	0	0	0
+Environmental Information Processing	Signal transduction	Wnt signaling pathway	0	0	0	0	0	0	0	0	0	0	0	0
+Organismal Systems	Development	Dorso-ventral axis formation	0	0	0	0	0	0	0	0	0	0	0	0
+Environmental Information Processing	Signal transduction	Notch signaling pathway	0	0	0	0	0	0	0	0	0	0	0	0
+Environmental Information Processing	Signal transduction	TGF-beta signaling pathway	0	0	0	0	0	0	0	0	0	0	0	0
+Organismal Systems	Development	Axon guidance	0	0	0	0	0	0	0	0	0	0	0	0
+Environmental Information Processing	Signal transduction	VEGF signaling pathway	0	0	0	0	0	0	0	0	0	0	0	0
+Organismal Systems	Development	Osteoclast differentiation	0	0	0	0	0	0	0	0	0	0	0	0
+Environmental Information Processing	Signal transduction	Hippo signaling pathway	0	0	0	0	0	0	0	0	0	0	0	0
+Environmental Information Processing	Signal transduction	Hippo signaling pathway - fly	0	0	0	0	0	0	0	0	0	0	0	0
+Cellular Processes	Cellular community - eukaryotes	Focal adhesion	0	0	0	0	0	0	0	0	0	0	0	0
+Environmental Information Processing	Signaling molecules and interaction	ECM-receptor interaction	0	0	0	0	0	0	0	0	0	0	0	0
+Cellular Processes	Cellular community - eukaryotes	Adherens junction	0	0	0	0	0	0	0	0	0	0	0	0
+Cellular Processes	Cellular community - eukaryotes	Tight junction	0	0	0	0	0	0	0	0	0	0	0	0
+Cellular Processes	Cellular community - eukaryotes	Gap junction	0	0	0	0	0	0	0	0	0	0	0	0
+Organismal Systems	Immune system	Complement and coagulation cascades	0	0	0	0	0	0	0	0	0	0	0	0
+Organismal Systems	Immune system	Platelet activation	0	0	0	0	0	0	0	0	0	0	0	0
+Organismal Systems	Immune system	Antigen processing and presentation	60708	49690	51452	49385	52430	50242	50539	48013	52373	50341	53893	55197
+Organismal Systems	Endocrine system	Renin-angiotensin system	3871	2416	3828	2885	4170	3232	3381	2951	3288	2178	2430	3112
+Organismal Systems	Immune system	NOD-like receptor signaling pathway	66519	52906	54851	51763	55622	53597	53789	51213	56575	54054	58422	60237
+Organismal Systems	Immune system	RIG-I-like receptor signaling pathway	1217	1133	1075	1029	997	823	1186	1015	1276	1954	2417	2058
+Organismal Systems	Immune system	Cytosolic DNA-sensing pathway	0	0	0	0	0	0	0	0	0	0	0	0
+Organismal Systems	Immune system	Toll and Imd signaling pathway	4297	3008	2294	2208	2454	2928	2069	2385	2401	1300	1611	1545
+Organismal Systems	Environmental adaptation	Plant-pathogen interaction	269918	215036	221808	213137	227903	215854	217465	205397	226509	210383	229526	231670
+Environmental Information Processing	Signal transduction	Jak-STAT signaling pathway	0	0	0	0	0	0	0	0	0	0	0	0
+Organismal Systems	Immune system	Hematopoietic cell lineage	0	0	0	0	0	0	0	0	0	0	0	0
+Organismal Systems	Immune system	Fc gamma R-mediated phagocytosis	0	0	0	0	0	0	0	0	0	0	0	0
+Environmental Information Processing	Signal transduction	TNF signaling pathway	0	0	0	0	0	0	0	0	0	0	0	0
+Organismal Systems	Immune system	Leukocyte transendothelial migration	0	0	0	0	0	0	0	0	0	0	0	0
+Organismal Systems	Environmental adaptation	Circadian rhythm - plant	0	0	0	0	0	0	0	0	0	0	0	0
+Organismal Systems	Environmental adaptation	Circadian entrainment	0	0	0	0	0	0	0	0	0	0	0	0
+Organismal Systems	Nervous system	Long-term potentiation	0	0	0	0	0	0	0	0	0	0	0	0
+Organismal Systems	Nervous system	Synaptic vesicle cycle	0	0	0	0	0	0	0	0	0	0	0	0
+Organismal Systems	Nervous system	Neurotrophin signaling pathway	0	0	0	0	0	0	0	0	0	0	0	0
+Organismal Systems	Nervous system	Retrograde endocannabinoid signaling	0	0	0	0	0	0	0	0	0	0	0	0
+Organismal Systems	Nervous system	Glutamatergic synapse	156415	130578	129292	131866	134262	126389	130790	123623	134062	124263	134847	133965
+Organismal Systems	Nervous system	Cholinergic synapse	0	0	0	0	0	0	0	0	0	0	0	0
+Organismal Systems	Nervous system	Serotonergic synapse	97	67	101	97	98	76	87	72	100	41	53	72
+Organismal Systems	Nervous system	GABAergic synapse	177757	145833	145332	144582	150907	141323	145171	137500	149353	139648	152829	152260
+Organismal Systems	Nervous system	Dopaminergic synapse	97	67	101	97	98	76	87	72	100	41	53	72
+Organismal Systems	Nervous system	Long-term depression	0	0	0	0	0	0	0	0	0	0	0	0
+Organismal Systems	Sensory system	Olfactory transduction	0	0	0	0	0	0	0	0	0	0	0	0
+Organismal Systems	Sensory system	Taste transduction	0	0	0	0	0	0	0	0	0	0	0	0
+Organismal Systems	Sensory system	Phototransduction	0	0	0	0	0	0	0	0	0	0	0	0
+Organismal Systems	Sensory system	Phototransduction - fly	0	0	0	0	0	0	0	0	0	0	0	0
+Organismal Systems	Sensory system	Inflammatory mediator regulation of TRP channels	0	0	0	0	0	0	0	0	0	0	0	0
+Cellular Processes	Cell motility	Regulation of actin cytoskeleton	0	0	0	0	0	0	0	0	0	0	0	0
+Organismal Systems	Endocrine system	Insulin signaling pathway	104664	88862	84746	90958	88955	83542	87498	82029	89738	82798	90975	87905
+Organismal Systems	Endocrine system	Insulin secretion	0	0	0	0	0	0	0	0	0	0	0	0
+Organismal Systems	Endocrine system	GnRH signaling pathway	0	0	0	0	0	0	0	0	0	0	0	0
+Organismal Systems	Endocrine system	Ovarian steroidogenesis	0	0	0	0	0	0	0	0	0	0	0	0
+Organismal Systems	Endocrine system	Progesterone-mediated oocyte maturation	60708	49690	51452	49385	52430	50242	50539	48013	52373	50341	53893	55197
+Organismal Systems	Endocrine system	Estrogen signaling pathway	60708	49690	51452	49385	52430	50242	50539	48013	52373	50341	53893	55197
+Organismal Systems	Endocrine system	Melanogenesis	0	0	0	0	0	0	0	0	0	0	0	0
+Organismal Systems	Endocrine system	Prolactin signaling pathway	26572	30421	25379	30648	23921	23888	28332	27924	28095	34587	35165	32904
+Organismal Systems	Endocrine system	Thyroid hormone synthesis	23560	20950	19212	14904	16841	18846	17620	19150	19589	28492	29187	29949
+Organismal Systems	Endocrine system	Thyroid hormone signaling pathway	0	0	0	0	0	0	0	0	0	0	0	0
+Organismal Systems	Endocrine system	Adipocytokine signaling pathway	135024	94607	109819	89968	109667	105868	102059	98282	108313	98548	104997	115731
+Organismal Systems	Endocrine system	Oxytocin signaling pathway	0	0	0	0	0	0	2	0	0	0	0	0
+Organismal Systems	Endocrine system	Glucagon signaling pathway	203831	185734	175776	194858	180404	168640	186158	174426	186599	181921	194215	187120
+Organismal Systems	Endocrine system	Regulation of lipolysis in adipocytes	0	0	0	0	0	0	0	0	0	0	0	0
+Organismal Systems	Endocrine system	Renin secretion	0	0	0	0	0	3	0	0	1	0	2	0
+Organismal Systems	Endocrine system	Aldosterone synthesis and secretion	0	0	0	0	0	0	0	0	0	0	0	0
+Human Diseases	Endocrine and metabolic diseases	Type II diabetes mellitus	59421	52298	50932	52769	51783	48748	52323	49618	53362	53784	57564	56922
+Human Diseases	Endocrine and metabolic diseases	Insulin resistance	136326	120921	117101	125825	121340	114013	121145	113588	122192	117258	125862	122737
+Human Diseases	Endocrine and metabolic diseases	Non-alcoholic fatty liver disease (NAFLD)	154	355	216	582	241	269	594	229	291	262	319	299
+Human Diseases	Endocrine and metabolic diseases	AGE-RAGE signaling pathway in diabetic complications	0	0	0	0	0	0	0	0	0	0	0	0
+Human Diseases	Endocrine and metabolic diseases	Type I diabetes mellitus	81408	66471	67934	64405	68965	65047	66438	63231	68592	66951	72710	73504
+Organismal Systems	Excretory system	Aldosterone-regulated sodium reabsorption	0	0	0	0	0	0	0	0	0	0	0	0
+Organismal Systems	Excretory system	Endocrine and other factor-regulated calcium reabsorption	0	0	0	0	0	0	0	0	0	0	0	0
+Organismal Systems	Excretory system	Vasopressin-regulated water reabsorption	0	0	0	0	0	0	0	0	0	0	0	0
+Organismal Systems	Excretory system	Proximal tubule bicarbonate reclamation	42253	31967	34907	26645	33681	32835	32262	31440	34258	37145	39839	41950
+Organismal Systems	Digestive system	Salivary secretion	6861	6248	5184	4835	4868	4482	5288	5215	5748	8851	10029	9546
+Organismal Systems	Digestive system	Gastric acid secretion	0	0	0	0	0	0	0	0	0	0	0	0
+Organismal Systems	Digestive system	Pancreatic secretion	0	0	0	0	0	0	0	0	0	0	0	0
+Organismal Systems	Digestive system	Carbohydrate digestion and absorption	11402	8610	7911	6930	7712	7144	7970	7687	9000	11318	13035	12913
+Organismal Systems	Digestive system	Protein digestion and absorption	50914	33140	35387	31849	38657	36358	33566	32269	35902	24123	28174	30272
+Organismal Systems	Digestive system	Fat digestion and absorption	0	0	0	0	0	0	0	0	0	0	0	0
+Organismal Systems	Digestive system	Bile secretion	0	0	0	0	0	0	2	0	0	0	0	0
+Organismal Systems	Digestive system	Vitamin digestion and absorption	0	0	0	0	0	0	0	0	0	0	0	0
+Organismal Systems	Digestive system	Mineral absorption	3298	2653	2399	2364	2379	2785	2250	2301	2426	3373	3758	3674
+Human Diseases	Neurodegenerative diseases	Alzheimer disease	65743	55673	57231	56446	58292	55241	57625	53488	58536	56851	60881	61446
+Human Diseases	Neurodegenerative diseases	Parkinson disease	154	406	228	608	252	276	614	250	322	364	407	334
+Human Diseases	Neurodegenerative diseases	Amyotrophic lateral sclerosis (ALS)	13384	10947	11620	10063	11446	9768	11367	10076	11512	13712	15764	15480
+Human Diseases	Neurodegenerative diseases	Huntington disease	57754	45075	46659	38389	45271	44464	43295	42426	46207	51651	55834	57475
+Human Diseases	Neurodegenerative diseases	Prion diseases	4090	4212	3545	3777	3313	2757	3803	3430	3748	5960	6730	5887
+Human Diseases	Substance dependence	Cocaine addiction	97	67	101	97	98	76	87	72	100	41	53	72
+Human Diseases	Substance dependence	Amphetamine addiction	97	67	101	97	98	76	87	72	100	41	53	72
+Human Diseases	Substance dependence	Morphine addiction	0	0	0	0	0	0	0	0	0	0	0	0
+Human Diseases	Substance dependence	Alcoholism	97	67	101	97	98	76	87	72	100	41	53	72
+Human Diseases	Infectious diseases: Bacterial	Bacterial invasion of epithelial cells	7258	8653	5746	3965	4562	4564	4550	5345	5103	15519	17897	15949
+Human Diseases	Infectious diseases: Bacterial	Vibrio cholerae infection	21078	12924	12832	11914	14694	14316	12042	12088	13433	8482	10465	11121
+Cellular Processes	Cellular community - prokaryotes	Biofilm formation - Vibrio cholerae	98433	87261	84139	85773	86558	79495	85057	80092	86536	88843	97360	92949
+Human Diseases	Infectious diseases: Bacterial	Epithelial cell signaling in Helicobacter pylori infection	123365	102678	106095	102138	106882	102306	104445	98917	107717	105476	112839	114609
+Human Diseases	Infectious diseases: Bacterial	Pathogenic Escherichia coli infection	8351	9912	6545	4416	5187	5215	5152	6090	5775	17872	20638	18459
+Human Diseases	Infectious diseases: Bacterial	Shigellosis	2386	2832	1870	1326	1482	1490	1472	1740	1650	5115	5918	5274
+Human Diseases	Infectious diseases: Bacterial	Salmonella infection	59021	44569	46986	43022	48329	43683	44921	41235	47588	47888	55575	53665
+Human Diseases	Infectious diseases: Bacterial	Pertussis	57561	43428	42443	33895	43899	40073	37550	37304	40538	50678	59451	58541
+Human Diseases	Infectious diseases: Bacterial	Legionellosis	150437	126932	129618	131375	132476	123770	131619	122106	133752	124374	134188	132604
+Human Diseases	Infectious diseases: Parasitic	Leishmaniasis	0	0	0	0	0	0	0	0	0	0	0	0
+Human Diseases	Infectious diseases: Parasitic	Chagas disease (American trypanosomiasis)	1292	2982	1627	3131	1185	1120	2554	2447	2169	3983	3995	3098
+Human Diseases	Infectious diseases: Parasitic	African trypanosomiasis	1446	3108	1752	3279	1335	1242	2682	2542	2320	4040	4082	3161
+Human Diseases	Infectious diseases: Parasitic	Malaria	0	0	0	0	0	0	0	0	0	0	0	0
+Human Diseases	Infectious diseases: Parasitic	Toxoplasmosis	118	331	168	342	174	191	344	205	234	226	271	241
+Human Diseases	Infectious diseases: Parasitic	Amoebiasis	25553	23598	20681	26793	22309	19659	23686	21698	23770	23027	25569	23430
+Human Diseases	Infectious diseases: Bacterial	Staphylococcus aureus infection	2145	2350	2225	2734	2188	1615	2459	2193	2372	3560	3926	2989
+Human Diseases	Infectious diseases: Bacterial	Tuberculosis	198503	166824	166880	166805	169258	162863	167722	159542	172146	164818	175991	176554
+Human Diseases	Infectious diseases: Viral	Hepatitis C	0	0	0	0	0	0	2	0	0	0	0	0
+Human Diseases	Infectious diseases: Viral	Hepatitis B	118	331	168	342	174	191	346	205	234	226	271	241
+Human Diseases	Infectious diseases: Viral	Measles	0	0	0	0	0	0	2	0	0	0	0	0
+Human Diseases	Infectious diseases: Viral	Influenza A	118	331	168	342	174	191	346	205	234	226	271	241
+Human Diseases	Infectious diseases: Viral	Human T-cell leukemia virus 1 infection	0	0	0	0	0	0	6	0	0	0	0	0
+Human Diseases	Infectious diseases: Viral	Herpes simplex virus 1 infection	118	331	168	342	174	191	350	205	234	226	271	241
+Human Diseases	Infectious diseases: Viral	Epstein-Barr virus infection	0	0	0	0	0	0	8	0	0	0	0	0
+Human Diseases	Cancers: Overview	Pathways in cancer	74648	58807	62143	57311	62537	60439	59945	56620	62982	61251	66473	68670
+Human Diseases	Cancers: Overview	Transcriptional misregulation in cancer	0	0	0	0	0	0	0	0	0	0	0	0
+Human Diseases	Cancers: Overview	Viral carcinogenesis	54880	49936	48205	50674	48939	46086	49649	47146	50110	51317	54558	53555
+Human Diseases	Cancers: Overview	Chemical carcinogenesis	4996	5805	4002	3043	3237	3268	3409	3634	3527	10433	12035	10737
+Human Diseases	Cancers: Overview	Proteoglycans in cancer	64025	53807	53904	53587	54608	52888	53858	51438	55436	52736	56179	56689
+Human Diseases	Cancers: Overview	MicroRNAs in cancer	115859	93097	98660	97348	103281	94319	98623	89017	99216	89414	99091	100164
+Human Diseases	Cancers: Specific types	Colorectal cancer	118	331	168	342	174	191	344	205	234	226	271	241
+Human Diseases	Cancers: Specific types	Renal cell carcinoma	13822	8786	10523	7584	9933	10006	9062	8402	10375	10684	12309	13232
+Human Diseases	Cancers: Specific types	Pancreatic cancer	0	0	0	0	0	0	0	0	0	0	0	0
+Human Diseases	Cancers: Specific types	Glioma	0	0	0	0	0	0	0	0	0	0	0	0
+Human Diseases	Cancers: Specific types	Prostate cancer	64400	54000	54396	51631	54807	52658	53039	50694	54946	58148	62891	63209
+Human Diseases	Cancers: Specific types	Bladder cancer	1208	1450	967	675	761	765	765	889	838	2593	2975	2659
+Human Diseases	Cancers: Specific types	Chronic myeloid leukemia	0	0	0	0	0	0	0	0	0	0	0	0
+Human Diseases	Cancers: Specific types	Small cell lung cancer	118	331	168	342	174	191	344	205	234	226	271	241
+Human Diseases	Cancers: Overview	Central carbon metabolism in cancer	343708	300408	288114	312443	298892	276740	301340	282495	303787	285695	309242	298977
+Human Diseases	Cancers: Overview	Choline metabolism in cancer	37787	28724	29637	24745	28760	30476	27251	27895	30150	34710	36394	39436
+Human Diseases	Immune diseases	Systemic lupus erythematosus	0	0	0	0	0	0	0	0	0	0	0	0
+Human Diseases	Immune diseases	Rheumatoid arthritis	0	0	0	0	0	0	0	0	0	0	0	0
+Human Diseases	Immune diseases	Primary immunodeficiency	64847	53762	54375	52446	54337	50652	53960	52100	56207	55951	60060	59915
+Human Diseases	Cardiovascular diseases	Hypertrophic cardiomyopathy (HCM)	0	0	0	0	0	3	0	0	1	0	2	0
+Human Diseases	Cardiovascular diseases	Arrhythmogenic right ventricular cardiomyopathy (ARVC)	0	0	0	0	0	0	0	0	0	0	0	0
+Human Diseases	Cardiovascular diseases	Dilated cardiomyopathy (DCM)	0	0	0	0	0	0	0	0	0	0	0	0
+Human Diseases	Cardiovascular diseases	Viral myocarditis	118	331	168	342	174	191	344	205	234	226	271	241
